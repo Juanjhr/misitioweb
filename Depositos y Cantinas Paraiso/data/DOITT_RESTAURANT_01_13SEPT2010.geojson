@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "NAME": "Fiesta Brava", "TEL": "933 333 4676", "URL": "https://www.facebook.com/pages/Fiesta-Brava-Restaurante", "ADDRESS1": "Calle Melchor Ocampo, El Carmen, Paraiso, Tab.", "ADDRES2": null, "CITY": "New York", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [  -93.2140588760376, 18.395446233281607 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "NAME": "Restaurant Chely", "TEL": "933 335 4086", "URL": "http://www.restaurantchelyparaiso.com.mx", "ADDRESS1": "Carretera Paraiso-Chiltepec Km 8.5,El Bellote,86611 Paraiso, Tab.", "ADDRES2": null, "CITY": "New York", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [ -93.1368083, 18.4249167 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "NAME": "Puerto Ceiba", "TEL": "933 333 0104", "URL": "", "ADDRESS1": "Galena 108, Centro, 86600 Paraiso, Tab.", "ADDRES2": null, "CITY": "New York", "ZIP": 10022.0 }, "geometry": { "type": "Point", "coordinates": [ -93.21012139320374, 18.395598942278344 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "NAME": "LA JUVENIL PIZZAS", "TEL": "933 333 0676", "URL": "", "ADDRESS1": "Avenida Cinco de Mayo 313, Centro, 86600 Paraiso, Tab.", "ADDRES2": null, "CITY": "New York", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [ -93.21471869945525, 18.39847493643546 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "NAME": "Restaurante Bar Cafe Pepe", "TEL": "933 333 4808", "URL": "", "ADDRESS1": "Calle 18 de Marzo 123, Fraccionamiento Costa Real, 86600 Paraiso, Tab.", "ADDRES2": null, "CITY": "New York", "ZIP": 10036.0 }, "geometry": { "type": "Point", "coordinates": [ -93.20895195007324, 18.40154430731724 ] } }
+
+
+]
+}

@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "NAME": "Bar El Estorbo", "TEL": "", "URL": "", "ADRESS1": "5 de Mayo 502, Centro, 86605 ", "ADDRESS2": null, "CITY": "Paraiso,Tabasco", "ZIP": 10004.0 }, "geometry": { "type": "Point", "coordinates": [ -93.214173, 18.3995374 ] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "NAME": "Hotel Antares", "TEL": "9333332983 / 9333332651", "URL": "http:\/\/www.hotelantares.com.mx\/", "ADRESS1": "Manzana 24 Casa 1; Colonia Lázaro Cárdenas (Petrolera, 2° etapa)", "ADDRESS2": null, "CITY": "Paraiso,Tabasco", "ZIP": 10305.0 }, "geometry": { "type": "Point", "coordinates": [ -93.19987535476685, 18.414508359836876 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "NAME": "Hotel Dos Ceibas", "TEL": "933-333- 3383 / 3384 / 3495", "URL": "http:\/\/www.hoteldosceibassuites.com.mx\/", "ADRESS1": "Manuel R. Domínguez; Colonia La Ceiba", "ADDRESS2": null, "CITY": "Paraiso,Tabasco", "ZIP": 10032.0 }, "geometry": { "type": "Point", "coordinates": [ -93.20697247982025, 18.393359196760652 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "NAME": "Hotel Plaza Blanquita", "TEL": "933-33-3-4663", "URL": "http:\/\/www.hotelplazablanquita.com.mx\/", "ADRESS1": "Calle Santos Degollado N° 1259", "ADDRESS2": null, "CITY": "Paraiso,Tabasco", "ZIP": 10019.0 }, "geometry": { "type": "Point", "coordinates": [ -93.208347, 18.404614 ] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "NAME": "Hotel Sabina Paraiso", "TEL": "933-33-32483", "URL": "http:\/\/www.hotelsabinaparaiso.com\/", "ADRESS1": "Melchor Ocampo 115 Col. Centro", "ADDRESS2": null, "CITY": "Paraiso,Tabasco", "ZIP": 0.0 }, "geometry": { "type": "Point", "coordinates": [ -93.2141661643982, 18.39518408252158 ] } }
+
+
+]
+}
